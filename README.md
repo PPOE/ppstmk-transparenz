@@ -10,11 +10,17 @@ data
 - Konten
 - - Klubförderung
 - - Parteienförderung
-- - Landesorgansiation
 - Berichte
 - - Wirtschaftsprüfer
 - - Partei Rechnungsprüfer
+- - Landesorgansiation
+- Kontostand
 - Inventar
 - Beschlussregister
 - Protokolle
 - Other Dokuments
+- Mitgliederstand/ Statistik
+- Socialmedia Statikiken
+- Mandatare Transparenz
+- Anträge, Abstimmungsverhalten?
+- Stimmen, Wahlantritte

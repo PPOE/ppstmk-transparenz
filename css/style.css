@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'PoliticsHeadBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('☺'), local('PoliticsHeadBold'), url('../fonts/PoliticsHeadBold.woff') format('woff');
+}
+
+body {
+    background: #f4f4f4 url('../images/bg-main.png') repeat top center scroll;
+    background-size: 100px 100px;
+}
+
+.container {
+    background: #ffffff;
+    box-shadow: 2px 4px 6px;
+}
+
+.pirate-highlight {
+    font-family: 'PoliticsHeadBold', 'DejaWeb', 'Helvetica Neue', 'Arial', Sans-Serif;
+    color: #000000;
+    border: 6px solid #ffffff;
+    background: linear-gradient(to top,  #ffcc04 0%, #f39200 100%);
+    box-shadow: 2px 4px 6px;
+    display: inline-block;
+    padding: 3px 12px;
+    line-height: 53px;
+    margin-bottom: -6px;
+    transform: rotate(-1deg);
+}
+
+.navbar-main {
+    background-color: #65497f;
+}
