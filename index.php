@@ -15,12 +15,12 @@ $pages = array(
     'root' => 'root',
     'grazwahl17' => 'Gemeinderatswahl Graz 2017',
     'partei' => 'Landesparteikonto',
-    '2015-klubf' => 'Klubförderungskonto 2015',
-    '2015-parteienf' => 'Parteienförderungskonto 2015',
-    '2016-klubf' => 'Klubförderungskonto 2016',
-    '2016-parteienf' => 'Parteienförderungskonto 2016',
-    '2017-klubf' => 'Klubförderungskonto 2017',
-    '2017-parteienf' => 'Parteienförderungskonto 2017'
+    '2015-klubf' => 'Klubförderungskonto Graz 2015',
+    '2015-parteienf' => 'Parteienförderungskonto Graz 2015',
+    '2016-klubf' => 'Klubförderungskonto Graz 2016',
+    '2016-parteienf' => 'Parteienförderungskonto Graz 2016',
+    '2017-klubf' => 'Klubförderungskonto Graz 2017',
+    '2017-parteienf' => 'Parteienförderungskonto Graz 2017'
 );
 
 $fileNames = array(
