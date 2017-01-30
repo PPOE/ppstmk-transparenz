@@ -1,0 +1,19 @@
+Buchungsdatum,Betrag,Währung,Buchungstext KURZ (nur grobe Info)
+13.04.2015,7136.35,EUR,Kontoübertrag
+15.04.2015,-124.95,EUR,"Druck (Druckkosten, Flyer Plakate)"
+15.04.2015,-600,EUR,Wirtschatfsprüfung
+21.05.2015,1433.75,EUR,Förderung
+25.06.2015,-2490,EUR,Schulung
+30.06.2015,0,EUR,*** Abschlussbuchung per 30.06.2015 **** Reklamationen bitte binnen 2 Monaten
+30.06.2015,0.5,EUR,Zinsen
+30.06.2015,-0.13,EUR,Kapialertragssteuer
+30.06.2015,-23.79,EUR,Kontogebühr
+30.09.2015,0,EUR,*** Abschlussbuchung per 30.09.2015 **** Reklamationen bitte binnen 2 Monaten
+30.09.2015,0.13,EUR,Zinsen
+30.09.2015,-0.03,EUR,Kapialertragssteuer
+30.09.2015,-20,EUR,Kontogebühr
+08.10.2015,-1000,EUR,Schulung
+31.12.2015,0,EUR,*** Abschlussbuchung per 31.12.2015 **** Reklamationen bitte binnen 2 Monaten
+31.12.2015,0.11,EUR,Zinsen
+31.12.2015,-0.03,EUR,Kapialertragssteuer
+31.12.2015,-20.48,EUR,Kontogebühr
