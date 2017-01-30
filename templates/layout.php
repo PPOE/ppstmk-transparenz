@@ -4,6 +4,28 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <meta name="description" content="Piraten sind 100% Transparent.">
+    <meta name="keywords"
+          content="Transparenz, Transparent, Finanzen, Partei, Steiermark, Graz, Pirat, Piratin,
+          Piraten, Piratinnen, Piratenpartei, Piratinnenpartei, Piratenpartei Steiermark, Piratenpartei Graz,
+          Piraten Graz">
+    <meta name="author" content="Peter Grassberger, Piratenpartei Steiermark">
+
+    <meta property="og:locale" content="de_DE"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="https://transparenz.piraten-graz.at/"/>
+    <meta property="og:title" content="Piratenpartei Steiermark - Transparenzbericht"/>
+    <meta property="og:description" content="Piraten sind 100% Transparent."/>
+    <!--<meta property="og:image" content="https://transparenz.piraten-graz.at/images/....png"/>
+    <meta property="og:image:width" content="834"/>
+    <meta property="og:image:height" content="834"/>
+    <meta property="twitter:card" content="summary_large_image"/>-->
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:site" content="@PiratenGraz"/>
+    <meta property="twitter:creator" content="@PiratenGraz"/>
+
+    <meta name="google-site-verification" content="uMY-iXyWpbkvEnN-IKVIxCnMSExDRQcQjo0VjqhcRgo" />
+
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
 
