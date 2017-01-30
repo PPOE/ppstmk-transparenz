@@ -1,8 +1,80 @@
 <h2><?php echo $title ?></h2>
 
-<p>
-    TODO: Stats
-</p>
+<h3 id="kumuliert">Kumuliert</h3>
+
+<div class="row">
+    <div class="col-lg-6">
+        <h4>Einnahmen</h4>
+        <table class="table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>Buchungstext</th>
+                    <th class="text-right text-nowrap">Betrag</th>
+                </tr>
+            </thead>
+            <tbody>
+            <?php
+            $sum = 0;
+            foreach ($stats as $key => $value) {
+                if ($value < 0.0) {
+                    continue;
+                }
+                $sum += $value;
+                ?>
+                <tr>
+                    <td><?php echo $key; ?></td>
+                    <td class="text-right"><?php echo number_format($value, 2, ',', '.') . ' €'; ?></td>
+                </tr>
+                <?php
+            }
+            ?>
+            </tbody>
+            <tfoot class="thead-inverse">
+                <tr>
+                    <th>Summe</th>
+                    <th class="text-right text-nowrap"><?php echo $sum . ' €' ?></th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+    <div class="col-lg-6">
+        <h4>Ausgaben</h4>
+        <table class="table">
+            <thead class="thead-inverse">
+            <tr>
+                <th>Buchungstext</th>
+                <th class="text-right text-nowrap">Betrag</th>
+            </tr>
+            </thead>
+            <tbody>
+            <?php
+            $sum = 0;
+            foreach ($stats as $key => $value) {
+                if ($value > 0.0) {
+                    continue;
+                }
+                $sum += $value;
+                ?>
+                <tr>
+                    <td><?php echo $key; ?></td>
+                    <td class="text-right"><?php echo number_format($value, 2, ',', '.') . ' €'; ?></td>
+                </tr>
+                <?php
+            }
+            ?>
+            </tbody>
+            <tfoot class="thead-inverse">
+            <tr>
+                <th>Summe</th>
+                <th class="text-right text-nowrap"><?php echo $sum . ' €' ?></th>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+<h3 id="buchungszeilen">Buchungszeilen</h3>
 
 <div class="row">
     <div class="col-lg-6">

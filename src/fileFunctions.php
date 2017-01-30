@@ -25,3 +25,18 @@ function loadFileData($filePath) {
     fclose($file);
     return $data;
 }
+
+function groupData($data) {
+    $stats = array();
+    foreach ($data as $line) {
+        if ($line[2] !== 'EUR') {
+            continue;
+        }
+        if (array_key_exists($line[3], $stats)) {
+            $stats[$line[3]] += $line[1];
+        } else {
+            $stats[$line[3]] = $line[1];
+        }
+    }
+    return $stats;
+}

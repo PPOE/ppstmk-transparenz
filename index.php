@@ -13,6 +13,7 @@ define('DATA_PATH', 'data/');
 
 $pages = array(
     'root' => 'root',
+    'grazwahl17' => 'Gemeinderatswahl Graz 2017',
     'partei' => 'Landesparteikonto',
     '2015-klubf' => 'Klubförderungskonto 2015',
     '2015-parteienf' => 'Parteienförderungskonto 2015',
@@ -44,7 +45,10 @@ if (!array_key_exists($page, $pages)) {
 
 if ($page === 'root') {
     echo loadTemplate('root', array('title' => $pages[$page]));
+} else if ($page === 'grazwahl17') {
+    echo loadTemplate('grazwahl17', array('title' => $pages[$page]));
 } else {
     $data = loadFileData($fileNames[$page]);
-    echo loadTemplate('table', array('title' => $pages[$page], 'data' => $data));
+    $stats = groupData($data);
+    echo loadTemplate('table', array('title' => $pages[$page], 'data' => $data, 'stats' => $stats));
 }

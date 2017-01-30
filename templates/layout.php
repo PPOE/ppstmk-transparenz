@@ -23,10 +23,11 @@
                         <a class="nav-link" href=".">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Finanzen
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="?page=grazwahl17">Gemeinderatswahl Graz 2017</a>
                             <a class="dropdown-item" href="?page=partei">Landesorganisation</a>
                             <a class="dropdown-item" href="?page=2015-parteienf">Parteienförderung 2015</a>
                             <a class="dropdown-item" href="?page=2016-parteienf">Parteienförderung 2016</a>
@@ -37,10 +38,16 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Something</a>
+                        <a class="nav-link" href="https://www.piratenpartei.at/partei/transparenz/#mitglieder">Mitgliederstatistik</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Something</a>
+                        <a class="nav-link" href="http://wiki.piratenpartei.at/wiki/Landesorganisation_Steiermark/LPT">Generalversammlungen</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://wiki.piratenpartei.at/wiki/Landesorganisation_Steiermark/Beschluesse">Sitzungen & Beschlüsse</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://liquid.piratenpartei.at/unit/show/11.html">Liquid Beschlüsse</a>
                     </li>
                 </ul>
             </div>
