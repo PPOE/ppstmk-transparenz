@@ -27,14 +27,15 @@
                             Finanzen
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="?page=grazwahl17">Gemeinderatswahl Graz 2017</a>
-                            <a class="dropdown-item" href="?page=partei">Landesorganisation</a>
+                            <a class="dropdown-item" href="https://finanzen.piratenpartei.at/">Finanzen vor 2015</a>
+                            <a class="dropdown-item" href="?page=partei">Landesorganisation 2015-2017</a>
                             <a class="dropdown-item" href="?page=2015-parteienf">Parteienförderung 2015</a>
                             <a class="dropdown-item" href="?page=2016-parteienf">Parteienförderung 2016</a>
                             <a class="dropdown-item" href="?page=2017-parteienf">Parteienförderung 2017</a>
                             <a class="dropdown-item" href="?page=2015-klubf">Klubförderung 2015</a>
                             <a class="dropdown-item" href="?page=2016-klubf">Klubförderung 2016</a>
                             <a class="dropdown-item" href="?page=2017-klubf">Klubförderung 2017</a>
+                            <a class="dropdown-item" href="?page=grazwahl17">Gemeinderatswahl Graz 2017</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">

@@ -7,7 +7,7 @@
 <div class="row">
     <div class="col-lg-6">
         <h4>Einnahmen</h4>
-        <table class="table">
+        <table class="table table-striped">
             <thead class="thead-inverse">
                 <tr>
                     <th>Buchungstext</th>
@@ -34,7 +34,7 @@
             <tfoot class="thead-inverse">
                 <tr>
                     <th>Summe</th>
-                    <th class="text-right text-nowrap"><?php echo $sum . ' €' ?></th>
+                    <th class="text-right text-nowrap"><?php echo number_format($sum, 2, ',', '.') . ' €' ?></th>
                 </tr>
             </tfoot>
         </table>
@@ -42,7 +42,7 @@
 
     <div class="col-lg-6">
         <h4>Ausgaben</h4>
-        <table class="table">
+        <table class="table table-striped">
             <thead class="thead-inverse">
             <tr>
                 <th>Buchungstext</th>
@@ -69,7 +69,7 @@
             <tfoot class="thead-inverse">
             <tr>
                 <th>Summe</th>
-                <th class="text-right text-nowrap"><?php echo $sum . ' €' ?></th>
+                <th class="text-right text-nowrap"><?php echo number_format($sum, 2, ',', '.') . ' €' ?></th>
             </tr>
             </tfoot>
         </table>
@@ -81,7 +81,7 @@
 <div class="row">
     <div class="col-lg-6">
         <h4>Einnahmen</h4>
-        <table class="table">
+        <table class="table table-striped">
             <thead class="thead-inverse">
                 <tr>
                     <th>Datum</th>
@@ -113,7 +113,7 @@
                 <tr>
                     <th>2015</th>
                     <th>Summe</th>
-                    <th class="text-right text-nowrap"><?php echo $sum . ' €' ?></th>
+                    <th class="text-right text-nowrap"><?php echo number_format($sum, 2, ',', '.') . ' €' ?></th>
                 </tr>
             </tfoot>
         </table>
@@ -121,7 +121,7 @@
 
     <div class="col-lg-6">
         <h4>Ausgaben</h4>
-        <table class="table">
+        <table class="table table-striped">
             <thead class="thead-inverse">
                 <tr>
                     <th>Datum</th>
@@ -153,7 +153,7 @@
                 <tr>
                     <th>2015</th>
                     <th>Summe</th>
-                    <th class="text-right text-nowrap"><?php echo $sum . ' €' ?></th>
+                    <th class="text-right text-nowrap"><?php echo number_format($sum, 2, ',', '.') . ' €' ?></th>
                 </tr>
             </tfoot>
         </table>
