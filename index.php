@@ -50,5 +50,10 @@ if ($page === 'root') {
 } else {
     $data = loadFileData($fileNames[$page]);
     $stats = groupData($data);
-    echo loadTemplate('table', array('title' => $pages[$page], 'data' => $data, 'stats' => $stats));
+    echo loadTemplate('table', array(
+        'title' => $pages[$page],
+        'fileName' => $fileNames[$page],
+        'data' => $data,
+        'stats' => $stats
+    ));
 }

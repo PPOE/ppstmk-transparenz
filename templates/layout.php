@@ -37,17 +37,22 @@
                             <a class="dropdown-item" href="?page=2017-klubf">Klubförderung 2017</a>
                         </div>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Sitzungen & Beschlüsse
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="http://wiki.piratenpartei.at/wiki/Landesorganisation_Steiermark/LPT">Generalversammlungen</a>
+                            <a class="dropdown-item" href="https://liquid.piratenpartei.at/unit/show/3.html">Liquid Steiermark</a>
+                            <a class="dropdown-item" href="https://liquid.piratenpartei.at/unit/show/11.html">Liquid Graz</a>
+                            <a class="dropdown-item" href="http://wiki.piratenpartei.at/wiki/Landesorganisation_Steiermark/Beschluesse">Landesvorstand</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://docs.google.com/spreadsheets/d/1iX3p9NYQUhkdjMvjPnUtcouNyy-jT3Z1l7KqT_jnQD8/edit?usp=sharing">Gemeinderatsanträge</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.piratenpartei.at/partei/transparenz/#mitglieder">Mitgliederstatistik</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="http://wiki.piratenpartei.at/wiki/Landesorganisation_Steiermark/LPT">Generalversammlungen</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="http://wiki.piratenpartei.at/wiki/Landesorganisation_Steiermark/Beschluesse">Sitzungen & Beschlüsse</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://liquid.piratenpartei.at/unit/show/11.html">Liquid Beschlüsse</a>
                     </li>
                 </ul>
             </div>

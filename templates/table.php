@@ -1,5 +1,7 @@
 <h2><?php echo $title ?></h2>
 
+<a href="<?php echo $fileName; ?>">CSV Download</a>
+
 <h3 id="kumuliert">Kumuliert</h3>
 
 <div class="row">
