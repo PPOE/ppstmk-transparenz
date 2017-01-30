@@ -28,6 +28,11 @@ body {
     transform: rotate(-1deg);
 }
 
+.pirate-highlight a {
+    color: #000000;
+    text-decoration: none;
+}
+
 .navbar-main {
     background-color: #65497f;
 }
