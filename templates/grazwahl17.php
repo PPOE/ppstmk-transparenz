@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>Domains</td>
-        <td class="text-right">183,32 €</td>
+        <td class="text-right">224,19 €</td>
     </tr>
     <tr>
         <td>Wahlvorschlag</td>
@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td>Druckkosten (Flyer, Plakate)</td>
-        <td class="text-right">1.655,37 €</td>
+        <td class="text-right">3.739,69 €</td>
     </tr>
     <tr>
         <td>Radanhänger</td>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
         <td>Werbung (social media, print, radio)</td>
-        <td class="text-right">566,19 €</td>
+        <td class="text-right">6.636,19 €</td>
     </tr>
     <tr>
         <td>Plakatständer</td>
@@ -59,7 +59,7 @@
     <tfoot class="thead-inverse">
         <tr>
             <th>Summe</th>
-            <th class="text-right text-nowrap">15.476,23 €</th>
+            <th class="text-right text-nowrap">24.171,42 €</th>
         </tr>
     </tfoot>
 </table>
