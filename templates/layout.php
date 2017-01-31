@@ -72,7 +72,7 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="https://finanzen.piratenpartei.at/">Finanzen vor 2015</a>
-                            <a class="dropdown-item" href="?page=partei">Landesorganisation 2015-2017</a>
+                            <a class="dropdown-item" href="?page=partei">Landesparteikonto 2015-2017</a>
                             <a class="dropdown-item" href="?page=2015-parteienf">Parteienförderung Graz 2015</a>
                             <a class="dropdown-item" href="?page=2016-parteienf">Parteienförderung Graz 2016</a>
                             <a class="dropdown-item" href="?page=2017-parteienf">Parteienförderung Graz 2017</a>

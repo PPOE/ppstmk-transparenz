@@ -12,9 +12,9 @@ define('DATA_PATH', 'data/');
 
 
 $pages = array(
-    'root' => 'root',
+    'root' => 'Wozu gibt\'s diese Seite?',
     'grazwahl17' => 'Gemeinderatswahl Graz 2017',
-    'partei' => 'Landesparteikonto',
+    'partei' => 'Landesparteikonto 2015-2017',
     '2015-klubf' => 'Klubförderungskonto Graz 2015',
     '2015-parteienf' => 'Parteienförderungskonto Graz 2015',
     '2016-klubf' => 'Klubförderungskonto Graz 2016',
