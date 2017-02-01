@@ -15,6 +15,7 @@ $pages = array(
     'root' => 'Wozu gibt\'s diese Seite?',
     'grazwahl17' => 'Gemeinderatswahl Graz 2017',
     'partei' => 'Landesparteikonto 2015-2017',
+    'anlagenv' => 'Anlagenverzeichnis (über 100 €)',
     '2015-klubf' => 'Klubförderungskonto Graz 2015',
     '2015-parteienf' => 'Parteienförderungskonto Graz 2015',
     '2016-klubf' => 'Klubförderungskonto Graz 2016',
@@ -47,6 +48,8 @@ if ($page === 'root') {
     echo loadTemplate('root', array('title' => $pages[$page]));
 } else if ($page === 'grazwahl17') {
     echo loadTemplate('grazwahl17', array('title' => $pages[$page]));
+} else if ($page === 'anlagenv') {
+    echo loadTemplate('anlagenv', array('title' => $pages[$page]));
 } else {
     $data = loadFileData($fileNames[$page]);
     $stats = groupData($data);

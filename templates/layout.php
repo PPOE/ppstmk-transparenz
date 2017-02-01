@@ -80,6 +80,7 @@
                             <a class="dropdown-item" href="?page=2016-klubf">Klubförderung Graz 2016</a>
                             <a class="dropdown-item" href="?page=2017-klubf">Klubförderung Graz 2017</a>
                             <a class="dropdown-item" href="?page=grazwahl17">Gemeinderatswahl Graz 2017</a>
+                            <a class="dropdown-item" href="?page=anlagenv">Anlagenverzeichnis (über 100 €)</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">
