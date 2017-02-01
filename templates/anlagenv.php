@@ -113,12 +113,6 @@
                 <td class="text-right">400,00 €</td>
             </tr>
             </tbody>
-            <tfoot class="thead-inverse">
-            <tr>
-                <th>geschätzter Restwert</th>
-                <th class="text-right text-nowrap">etwa 3.500,00 €</th>
-            </tr>
-            </tfoot>
         </table>
     </div>
 </div>
