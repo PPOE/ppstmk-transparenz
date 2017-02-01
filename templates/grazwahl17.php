@@ -64,7 +64,7 @@
             <tfoot class="thead-inverse">
             <tr>
                 <th>Summe</th>
-                <th class="text-right text-nowrap">24.171,42 €</th>
+                <th class="text-right text-nowrap">23.671,42 €</th>
             </tr>
             </tfoot>
         </table>
