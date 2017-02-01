@@ -88,9 +88,11 @@
                             Dokumente
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">???</a>
-                            <a class="dropdown-item" href="#">???</a>
-                            <a class="dropdown-item" href="#">???</a>
+                            <a class="dropdown-item" href="documents/Bericht-Richtlinie-für-die-Förderung.pdf">Bericht: Richtlinie für die Förderung</a>
+                            <a class="dropdown-item" href="documents/Allgemeine-Auftragsbedingungen-für-Wirtschaftstreuhandberufe-AABWTH2011.pdf">Auftragsbedingungen für Wirtschaftsprüfer</a>
+                            <a class="dropdown-item" href="documents/Prüfbericht_Klubförderung_pol_Mandatare_Graz_2014.pdf">Prüfbericht 2014</a>
+                            <a class="dropdown-item" href="documents/Prüfbericht_Klubförderung_pol_Mandatare_Graz_2015.pdf">Prüfbericht 2015</a>
+                            <a class="dropdown-item" href="documents/Fairness-und-Transparenzabkommen-GR-Wahl-2017.pdf">Fairness- und Transparenzabkommen 2017</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">
