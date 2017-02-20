@@ -123,7 +123,7 @@
         <hr />
         <a href="//creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>
         &copy;
-        <a href="//piraten-graz.at/rechtliches/impressum/">Piratenpartei Graz</a> 2017 -
+        <a href="//piraten-graz.at/rechtliches/impressum/">Piratenpartei Steiermark</a> 2017 -
         <a href="//www.facebook.com/piratengraz">Facebook</a> -
         <a href="//twitter.com/PiratenGraz">Twitter</a> -
         <a href="//github.com/PPOE/ppstmk-transparenz">GitHub</a>
