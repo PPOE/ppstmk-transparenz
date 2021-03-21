@@ -1,0 +1,13 @@
+Buchungsdatum,Betrag,Währung,Buchungstext KURZ (nur grobe Info)
+26.01.2018,1045.88,EUR,Mitgliedsbeiträge
+07.02.2018,179.23,EUR,Rückerstattung Darlehn
+30.03.2018,0.05,EUR,Zinsen
+30.03.2018,-0.01,EUR,Kapialertragssteuer
+30.03.2018,-35.49,EUR,Kontogebühr
+19.09.2018,-79.95,EUR,Werbemittel
+28.09.2018,0.05,EUR,Zinsen
+28.09.2018,-0.01,EUR,Kapialertragssteuer
+28.09.2018,-35.49,EUR,Kontogebühr
+31.12.2018,0.05,EUR,Zinsen
+31.12.2018,-0.01,EUR,Kapialertragssteuer
+31.12.2018,-35.49,EUR,Kontogebühr

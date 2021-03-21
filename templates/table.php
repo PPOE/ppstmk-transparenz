@@ -111,7 +111,7 @@
             </tbody>
             <tfoot class="thead-inverse">
                 <tr>
-                    <th>2015</th>
+                    <th>Jahr</th>
                     <th>Summe</th>
                     <th class="text-right text-nowrap"><?php echo number_format($sum, 2, ',', '.') . ' €' ?></th>
                 </tr>
@@ -151,7 +151,7 @@
             </tbody>
             <tfoot class="thead-inverse">
                 <tr>
-                    <th>2015</th>
+                    <th>Jahr</th>
                     <th>Summe</th>
                     <th class="text-right text-nowrap"><?php echo number_format($sum, 2, ',', '.') . ' €' ?></th>
                 </tr>
