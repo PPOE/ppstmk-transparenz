@@ -80,6 +80,12 @@
                             <a class="dropdown-item" href="?page=2016-klubf">Klubförderung Graz 2016</a>
                             <a class="dropdown-item" href="?page=2017-klubf">Klubförderung Graz 2017</a>
                             <a class="dropdown-item" href="?page=grazwahl17">Gemeinderatswahl Graz 2017</a>
+                            <a class="dropdown-item" href="?page=2018-partei">Parteikonto 2018</a>
+                            <a class="dropdown-item" href="?page=2018-graz">Grazkonto 2018</a>
+                            <a class="dropdown-item" href="?page=2019-partei">Parteikonto 2019</a>
+                            <a class="dropdown-item" href="?page=2019-graz">Grazkonto 2019</a>
+                            <a class="dropdown-item" href="?page=2020-partei">Parteikonto 2020</a>
+                            <a class="dropdown-item" href="?page=2020-graz">Grazkonto 2020</a>
                             <a class="dropdown-item" href="?page=anlagenv">Anlagenverzeichnis (über 100 €)</a>
                         </div>
                     </li>

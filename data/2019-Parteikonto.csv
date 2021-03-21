@@ -1,0 +1,16 @@
+Buchungsdatum,Betrag,Währung,Buchungstext KURZ (nur grobe Info)
+23.01.2019,554.15,EUR,Mitgliedsbeiträge
+24.01.2019,-421.22,EUR,Mitgliedsbeiträge
+29.03.2019,0.04,EUR,Zinsen
+29.03.2019,-0.01,EUR,Kapialertragssteuer
+29.03.2019,-35.03,EUR,Kontoführung
+03.04.2019,1000,EUR,Honorar
+28.06.2019,0.07,EUR,Zinsen
+28.06.2019,-0.02,EUR,Kapialertragssteuer
+28.06.2019,-35.96,EUR,Kontoführung
+30.09.2019,0.07,EUR,Zinsen
+30.09.2019,-0.02,EUR,Kapialertragssteuer
+30.09.2019,-35.13,EUR,Kontoführung
+31.12.2019,0.07,EUR,Zinsen
+31.12.2019,-0.02,EUR,Kapialertragssteuer
+31.12.2019,-35.13,EUR,Kontoführung

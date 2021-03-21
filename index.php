@@ -21,7 +21,13 @@ $pages = array(
     '2016-klubf' => 'Klubförderungskonto Graz 2016',
     '2016-parteienf' => 'Parteienförderungskonto Graz 2016',
     '2017-klubf' => 'Klubförderungskonto Graz 2017',
-    '2017-parteienf' => 'Parteienförderungskonto Graz 2017'
+    '2017-parteienf' => 'Parteienförderungskonto Graz 2017',
+    '2018-partei' => 'Parteikonto 2018',
+    '2019-partei' => 'Parteikonto 2019',
+    '2020-partei' => 'Parteikonto 2020',
+    '2018-graz' => 'Grazkonto 2018',
+    '2019-graz' => 'Grazkonto 2019',
+    '2020-graz' => 'Grazkonto 2020'
 );
 
 $fileNames = array(
@@ -31,7 +37,13 @@ $fileNames = array(
     '2016-klubf' => DATA_PATH . '2016-Klubförderung.csv',
     '2016-parteienf' => DATA_PATH . '2016-Parteienförderung.csv',
     '2017-klubf' => DATA_PATH . '2017-Klubförderung.csv',
-    '2017-parteienf' => DATA_PATH . '2017-Parteienförderung.csv'
+    '2017-parteienf' => DATA_PATH . '2017-Parteienförderung.csv',
+    '2018-partei' => DATA_PATH . '2018-Parteikonto.csv',
+    '2019-partei' => DATA_PATH . '2019-Parteikonto.csv',
+    '2020-partei' => DATA_PATH . '2020-Parteikonto.csv',
+    '2018-graz' => DATA_PATH . '2018-Grazkonto.csv',
+    '2019-graz' => DATA_PATH . '2019-Grazkonto.csv',
+    '2020-graz' => DATA_PATH . '2020-Grazkonto.csv'
 );
 
 if (isset($_GET['page'])) {
