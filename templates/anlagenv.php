@@ -83,7 +83,7 @@
         </table>
     </div>
     <div class="col-lg-6">
-        <h3>Kontostände (Stand 31.01.2017)</h3>
+        <h3>Kontostände (Stand 21.03.2021)</h3>
         <table class="table">
             <thead class="thead-inverse">
             <tr>
@@ -93,24 +93,20 @@
             </thead>
             <tbody>
             <tr>
-                <td>Arbeit d. politischen Mandatare aka. Klubkonto</td>
-                <td class="text-right">261,59 €</td>
+                <td>Arbeit d. politischen Mandatare aka. Klubkonto (aufgelöst)</td>
+                <td class="text-right">0 €</td>
             </tr>
             <tr>
-                <td>Parteienförderungskonto <br />(inkl. für BürgerInnenbudget reservierte 60.000,00 €)</td>
-                <td class="text-right">72.645,35 €</td>
+                <td>Grazkonto</td>
+                <td class="text-right">4976,02 €</td>
             </tr>
             <tr>
                 <td>Landeskonto</td>
-                <td class="text-right">416,38 €</td>
+                <td class="text-right">2571,55 €</td>
             </tr>
             <tr>
                 <td>Kredite, Schulden, offen Rechungen</td>
-                <td class="text-right">0,00 €</td>
-            </tr>
-            <tr>
-                <td>noch erwartetet Spenden</td>
-                <td class="text-right">400,00 €</td>
+                <td class="text-right">352,82 €</td>
             </tr>
             </tbody>
         </table>
