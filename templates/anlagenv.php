@@ -105,6 +105,10 @@
                 <td class="text-right">2571,55 €</td>
             </tr>
             <tr>
+                <td>Handkasse</td>
+                <td class="text-right">293,92 €</td>
+            </tr>
+            <tr>
                 <td>Kredite, Schulden, offen Rechungen</td>
                 <td class="text-right">352,82 €</td>
             </tr>
